@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash 
+#программа выведет Hello, world
 
-#Программа выводит - Hello, world
-echo: "Hello, world"
+echo "Hello, world"
